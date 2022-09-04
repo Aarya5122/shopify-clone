@@ -1,5 +1,6 @@
 # SHOPIFY CLONE PREVIEW
 
+[shopify.webm](https://user-images.githubusercontent.com/72256055/188307318-f337206b-5705-4303-89cc-197a01449b7f.webm)
 
 
 # SHOPIFY CLONE
